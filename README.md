@@ -1,2 +1,2 @@
-# jpg_to_html5css3
+# JPG_to_HTML5-CSS3
  
